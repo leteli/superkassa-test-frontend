@@ -1,7 +1,12 @@
 ## Тестовое задание для компании Superkassa
 
-# Фронтенд-часть:
+### Frontend:
     React / Redux Toolkit / Formik / Socket.io
+
+### Backend:
+    Node.js / Express / Socket.io
+### DB: 
+    PostgreSQL / pg-promise
 
 # npm i
 
