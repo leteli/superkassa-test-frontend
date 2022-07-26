@@ -8,6 +8,8 @@
 ### DB: 
     PostgreSQL / pg-promise
 
-# npm i
+### npm i
+### npm start
+### npm run dev
 
-# npm start
+### http://localhost:3000
